@@ -64,6 +64,9 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 15-35k，14-15薪，高期权前景好，日常福利丰厚 | [zhaoyu@weidian.com](mailto:zhaoyu@weidian.com "有效期至 2015-12-31")
 光量子教育 | [Android 工程师](./北京--JD/光量子教育 Android.md) | 能力匹配的薪水、期权、rMBP、有点追求的伙伴 | [wilbur@guangzixuexi.com](mailto:wilbur@guangzixuexi.com "有效期至 2015-12-31")
 滴滴打车 | [Android 开发](./北京--JD/滴滴打车全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+<<<<<<< HEAD
+>>>>>>> android-cn/master
+=======
 >>>>>>> android-cn/master
 
 ####Shang Hai
@@ -84,7 +87,6 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 华为EMUI | [Android 开发](./上海--JD/华为EMUI Android .md) | 华为EMUI开发  | [bisheng7@huawei.com](mailto:bisheng7@huawei.com "有效期至 2015-03-31")
 云收益 | [Android 开发](./上海--JD/云收益Android.md) | 90后 氛围轻松 高配装备 | [fj@yunshouyi.pro](mailto:fj@yunshouyi.pro "有效期至 2015-06-31")
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围好 弹性工作 | [hr@teambition.com](mailto:hr@teambition.com)
-衣见如故 | [Android 开发](./上海--JD/衣见如故 Android.md) | 高薪 期权 弹性工作 妹子多 各种福利 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
 腾讯QQ | [Android 工程师](./上海--JD/腾讯SNG04 Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 腾讯Qzone | [Android 工程师](./上海--JD/腾讯SNG08 Android.md) | 大企鹅、前景待遇福利好 | [kesenhu@tencent.com](mailto:kesenhu@tencent.com "有效期至 2015-09-30")
 魔蛋 | [Android 开发](./上海--JD/魔蛋科技 Android.md) | 高薪、期权及有情怀的技术小伙伴 | [iwebpp@gmail.com](mailto:iwebpp@gmail.com "有效期至 2015-12-31")
